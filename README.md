@@ -8,5 +8,6 @@ Its genius ? To materialize ideas of an evident simplicity... but which no one h
 
 ✉ convergence-tech@proton.me
 
-. Github Company : https://github.com/Convergence-Human-And-Technology
+. Github Company : https://github.com/Convergence-Human-And-Technology 
+
 . LinkedIn Page : https://www.linkedin.com/company/convergence-organization
