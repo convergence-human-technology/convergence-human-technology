@@ -1,4 +1,4 @@
-# Convergence Human And Technology
+# Convergence Human & Technology
 
 Convergence is a software company that designs and markets private and paid desktop PC software applications and IT solutions, intended for both professionals and individuals : B2B & B2C.
 
