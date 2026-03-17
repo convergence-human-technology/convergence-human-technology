@@ -6,7 +6,7 @@ Its particularity ? To offer unique concepts, never explored before. Far from cl
 
 Its genius ? To materialize ideas of an evident simplicity... but which no one had thought of to turn them into real everyday tools.
 
-✉ convergence-tech@proton.me
+✉ Email : convergence-tech@proton.me
 
 . Github Company : https://github.com/Convergence-Human-And-Technology 
 
