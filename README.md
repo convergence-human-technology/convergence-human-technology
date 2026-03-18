@@ -11,3 +11,5 @@ Its genius ? To materialize ideas of an evident simplicity... but which no one h
 . Github Company : https://github.com/Convergence-Human-And-Technology 
 
 . LinkedIn Page : https://www.linkedin.com/company/convergence-organization
+
+- Facebook : https://www.facebook.com/profile.php?id=61578483081894
