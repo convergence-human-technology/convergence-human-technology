@@ -1,3 +1,11 @@
+# Aether Suite :
+
+9 open-source Android apps to replace your phone's default apps. No ads, no tracking, private by design.
+
+https://github.com/convergence-human-technology/AetherSuite
+
+#
+
 # Convergence Human & Technology
 
 Convergence is a software company that designs and markets private and paid desktop PC software applications and IT solutions, intended for both professionals and individuals : B2B & B2C.
