@@ -16,6 +16,8 @@ Its genius ? To materialize ideas of an evident simplicity... but which no one h
 
 . LinkedIn Page : https://www.linkedin.com/company/convergence-organization
 
+. LinkedIn Showcase Page : https://www.linkedin.com/showcase/convergence-human-and-technology
+
 . Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
 
 . Medium : https://medium.com/@fabien-conejero/convergence-quand-le-g%C3%A9nie-invente-les-%C3%A9vidences-de-demain-eee167379f22
