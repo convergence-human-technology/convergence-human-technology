@@ -31,7 +31,7 @@ Purism Librem 5 Runs on PureOS, a fully free OS not based on Android or iOS.
 #
 
 # ExecAI - A Minimal Executive AI
-License: MIT GitHub stars GitHub last commit Maintained GitHub forks PRs Welcome
+License : MIT GitHub stars GitHub last commit Maintained GitHub forks PRs Welcome
 
 A minimal, fully commented Python implementation of an executive AI agent. Built by Convergence - Human And Technology for students, teachers, and junior developers.
 
