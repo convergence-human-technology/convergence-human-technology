@@ -37,7 +37,7 @@ A minimal, fully commented Python implementation of an executive AI agent. Built
 
 The entire logic fits in one Python file with fewer than 90 lines of code. Every concept, every line, every choice is explained.
 
-
+https://github.com/Convergence-Human-And-Technology/executive-ai-core
 
 python - api - open-source - education - tutorial - minimal - beginner-friendly - autonomous-agents - ai-agents - claude -  llm -  anthropic - plan-and-execute - system-prompt -  agentic-workflow - agentic-ai
 
