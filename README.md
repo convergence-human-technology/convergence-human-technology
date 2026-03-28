@@ -30,6 +30,20 @@ Purism Librem 5 Runs on PureOS, a fully free OS not based on Android or iOS.
 #
 #
 
+# ExecAI - A Minimal Executive AI
+License: MIT GitHub stars GitHub last commit Maintained GitHub forks PRs Welcome
+
+A minimal, fully commented Python implementation of an executive AI agent. Built by Convergence - Human And Technology for students, teachers, and junior developers.
+
+The entire logic fits in one Python file with fewer than 90 lines of code. Every concept, every line, every choice is explained.
+
+
+
+
+#
+#
+#
+
 # Convergence Human & Technology
 
 Convergence is a software company that designs and markets private and paid desktop PC software applications and IT solutions, intended for both professionals and individuals : B2B & B2C.
