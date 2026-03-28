@@ -39,6 +39,7 @@ The entire logic fits in one Python file with fewer than 90 lines of code. Every
 
 
 
+python - api - open-source - education - tutorial - minimal - beginner-friendly - autonomous-agents - ai-agents - claude -  llm -  anthropic - plan-and-execute - system-prompt -  agentic-workflow - agentic-ai
 
 #
 #
