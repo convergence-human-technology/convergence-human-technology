@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/logo-convergence.png" alt="logo convergence png" width="45%" height="45%">
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/Aether-Suite-cover-05t.png" alt="Aether Suite : 9 applications Android open source par Convergence Human and Technology" width="100%" height="auto" />
+</p>
+
 # Aether Suite :
 
 9 open-source Android apps to replace your phone's default apps. No ads, no tracking, private by design.
