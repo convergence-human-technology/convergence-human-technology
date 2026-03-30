@@ -12,7 +12,7 @@
 
 https://github.com/convergence-human-technology/AetherSuite
 
-The AetherSuite software suite : the 9 open-source Android applications were offered to:  e Foundation / Murena (https://e.foundation/) - Jolla / Sailfish OS (https://sailfishos.org/) - Punkt MC03 (https://www.punkt.ch/en) in March 2026.
+The AetherSuite software suite : the 9 open-source Android applications were offered to :  e Foundation / Murena (https://e.foundation/) - Jolla / Sailfish OS (https://sailfishos.org/) - Punkt MC03 (https://www.punkt.ch/en) in March 2026.
 
 What all these phones have in common: they are de-Googled, they all run on an AOSP Android base, and their default apps are either non-existent, basic, or provided by third parties. The Punkt MC03, for example, provides its own email and calendar apps, but nothing comparable to a cohesive suite of 9 apps designed together.
 
