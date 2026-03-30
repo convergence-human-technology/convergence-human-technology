@@ -49,6 +49,10 @@ python - api - open-source - education - tutorial - minimal - beginner-friendly 
 #
 #
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/convergence-human-technology/convergence-human-technology/main/convergence-cover-natural-d.png" alt="convergence cover" width="100%">
+</p>
+
 # Convergence Human & Technology
 
 Convergence is a software company that designs and markets private and paid desktop PC software applications and IT solutions, intended for both professionals and individuals : B2B & B2C.
