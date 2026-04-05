@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/convergence-human-technology/site/main/img/Aether-Suite-cover-05t.png" alt="Aether Suite : 9 applications Android open source par Convergence Human and Technology" width="100%" height="auto" />
 </p>
 
@@ -20,7 +24,9 @@ AetherSuite is exactly the software suite these phones have been waiting for.
 
 The AetherSuite software suite runs on AOSP, does not depend on any Google services, installs manually without a store, and is MIT-licensed. It is made for them, natively, without any modifications.
 
-__
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 The phones shaping the future of privacy :
 
@@ -30,9 +36,9 @@ Jolla Phone (Finland) Dubbed "the European independent smartphone," it runs on S
 
 Purism Librem 5 Runs on PureOS, a fully free OS not based on Android or iOS.
 
-#
-#
-#
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Convergence-Human-And-Technology/executive-ai-core/main/ExecAI-executive-ai-core-co.png" alt="ExecAI - A Minimal Executive AI" width="100%">
@@ -49,9 +55,9 @@ https://github.com/Convergence-Human-And-Technology/executive-ai-core
 
 python - api - open-source - education - tutorial - minimal - beginner-friendly - autonomous-agents - ai-agents - claude -  llm -  anthropic - plan-and-execute - system-prompt -  agentic-workflow - agentic-ai
 
-#
-#
-#
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 <p align="center">
 <img src="https://github.com/madjeek-web/polybridge-mcp/raw/main/cover_convergence_mcp_2.png" alt="Polybridge Mcp cover image" width="100%" height="100%">
@@ -67,9 +73,9 @@ python - api - open-source - education - tutorial - minimal - beginner-friendly 
 
 - Topics : open-source automation blender mcp gateway bridge mit-license notion claude pedagogical n8n llm agentic-ai model-context-protocol TypeScript Node.js MCP Protocol n8n Compatible Blender Docker
 
-#
-#
-#
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/convergence-human-technology/convergence-human-technology/main/convergence-cover-natural-d.png" alt="convergence cover" width="100%">
@@ -87,7 +93,9 @@ Its genius ? To materialize ideas of an evident simplicity... but which no one h
 
 . Web Site : https://convergence-human-technology.github.io/site
 
-#
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 . Github Company : https://github.com/Convergence-Human-And-Technology 
 
@@ -99,7 +107,9 @@ Its genius ? To materialize ideas of an evident simplicity... but which no one h
 
 . Medium : https://medium.com/@fabien-conejero/convergence-quand-le-g%C3%A9nie-invente-les-%C3%A9vidences-de-demain-eee167379f22
 
-#
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 <p align="center">
   <img src="https://github.com/convergence-human-technology/applied-ai-research/raw/main/cover-convergence-applied-a.png" alt="Research and development of executive AI systems for everyday life and industrial environments" width="100%" height="100%">
@@ -110,13 +120,17 @@ Research and development of executive AI systems for everyday life and industria
 
 Convergence - Human And Technology
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## About
 
 Convergence is engaged in the creation, development, and research of executive artificial intelligence systems across two distinct fields.
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
 ## Fields of Work
 
@@ -126,9 +140,10 @@ Convergence is engaged in the creation, development, and research of executive a
 | AI for Industry | Executive AI systems oriented toward the industrial world and its operational requirements |
 
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
 
-#
 
 ![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/sovereign-drive/main/convergence_cover_aquatic.jpg)
 
@@ -139,4 +154,6 @@ Convergence is engaged in the creation, development, and research of executive a
 
 - https://github.com/Convergence-Human-And-Technology/sovereign-drive
 
----
+<p align="center">
+  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
+</p>
