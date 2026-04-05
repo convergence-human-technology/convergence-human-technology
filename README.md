@@ -63,7 +63,7 @@ python - api - open-source - education - tutorial - minimal - beginner-friendly 
 - Project Link : https://github.com/madjeek-web/polybridge-mcp
 
 - Created by : Fabien Conéjéro (FC84) in April 2026 - Convergence Human & Technology
-- Creator Link : https://github.com/madjeek-web
+- Creator Links : https://github.com/madjeek-web - https://madjeek-web.github.io/
 
 - Topics : open-source automation blender mcp gateway bridge mit-license notion claude pedagogical n8n llm agentic-ai model-context-protocol TypeScript Node.js MCP Protocol n8n Compatible Blender Docker
 
