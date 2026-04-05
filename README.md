@@ -137,4 +137,6 @@ Convergence is engaged in the creation, development, and research of executive a
 > **Legally accountable AI for autonomous vehicle operation**  
 > A Convergence Human & Technology research initiative
 
+- https://github.com/Convergence-Human-And-Technology/sovereign-drive
+
 ---
