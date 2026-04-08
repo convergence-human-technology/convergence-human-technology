@@ -24,9 +24,7 @@ AetherSuite is exactly the software suite these phones have been waiting for.
 
 The AetherSuite software suite runs on AOSP, does not depend on any Google services, installs manually without a store, and is MIT-licensed. It is made for them, natively, without any modifications.
 
-<p align="center">
-  <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
-</p>
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/Aether-Suite/main/cover_Aether_Suite_real_HT.jpg)
 
 The phones shaping the future of privacy :
 
