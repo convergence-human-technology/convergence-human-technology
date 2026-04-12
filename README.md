@@ -154,6 +154,8 @@ Convergence is engaged in the creation, development, and research of executive a
 
 - https://github.com/Convergence-Human-And-Technology/sovereign-drive
 
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/sovereign-drive/main/sovereign-drive-city-car.jpg)
+
 <p align="center">
   <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
 </p>
