@@ -38,6 +38,8 @@ Purism Librem 5 Runs on PureOS, a fully free OS not based on Android or iOS.
   <img src="https://github.com/madjeek-web/about/raw/main/hr.png" alt="separator" width="300" height="3">
 </p>
 
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/executive-ai-core/main/executive-ai-convergence.jpg)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Convergence-Human-And-Technology/executive-ai-core/main/ExecAI-executive-ai-core-co.png" alt="ExecAI - A Minimal Executive AI" width="100%">
 </p>
