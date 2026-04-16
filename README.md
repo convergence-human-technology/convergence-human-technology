@@ -105,6 +105,8 @@ Its genius ? To materialize ideas of an evident simplicity... but which no one h
 
 . Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
 
+. X / Twitter : https://x.com/convergence_H_T
+
 . Medium : https://medium.com/@fabien-conejero/convergence-quand-le-g%C3%A9nie-invente-les-%C3%A9vidences-de-demain-eee167379f22
 
 <p align="center">
